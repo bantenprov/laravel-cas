@@ -1,7 +1,7 @@
 {
     "name": "bantenprov/laravel-cas",
     "description": " CAS client dari laravel framework untuk banten satu login",
-    "type": "Project",
+    "type": "Library",
     "license": "MIT",
     "authors": [
         {
